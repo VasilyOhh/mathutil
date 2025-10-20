@@ -14,3 +14,5 @@
 
 ### Connect me via ohong.181278@gmail.com
 ### &#169: 2025   
+
+[![Math Utility Project (CI included) | © 2025 by Vasily](https://github.com/VasilyOhh/mathutil/actions/workflows/ci-script.yml/badge.svg)](https://github.com/VasilyOhh/mathutil/actions/workflows/ci-script.yml)
